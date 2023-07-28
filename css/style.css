@@ -7,7 +7,7 @@
 
 body {
     font-family: Nunito;
-    background-image: url("/images/Group\ 48.png"), url("/images/Rectangle\ 34.png");
+    background-image: url("../images/Group\ 48.png"), url("../images/Rectangle\ 34.png");
 }
 
 .page-header {
@@ -35,7 +35,7 @@ body {
 .hero {
     padding-top: 93px;
     padding-bottom: 84px;
-    background-image: url("/images/Illusration.png");
+    background-image: url("../images/Illusration.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -223,7 +223,7 @@ body {
     width: 95px;
     height: 75px;
     margin-top: 30px;
-    background-image: url("/images/Quote\ Icon.png");
+    background-image: url("../images/Quote\ Icon.png");
     background-repeat: no-repeat;
 }
 
@@ -244,7 +244,7 @@ body {
     margin-bottom: 34px;
     width: 122px;
     height: 22px;
-    background-image: url("/images/Rating.png");
+    background-image: url("../images/Rating.png");
     background-repeat: no-repeat;
 }
 
@@ -295,14 +295,14 @@ body {
 
 .like {
     display: inline-block;
-    background-image: url("/images/like.png");
+    background-image: url("../images/like.png");
     background-repeat: no-repeat;
     background-position: 3px;
 }
 
 .view {
     display: inline-block;
-    background-image: url("/images/eye.png");
+    background-image: url("../images/eye.png");
     background-repeat: no-repeat;
     background-position: 25px;
 }
@@ -311,7 +311,7 @@ body {
 
 .contacts {
     padding-bottom: 177px;
-    background-image: url("/images/Background.png");
+    background-image: url("../images/Background.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -365,19 +365,19 @@ body {
 }
 
 .contacts__icon-name {
-    background-image: url("/images/User.png");
+    background-image: url("../images/User.png");
     background-repeat: no-repeat;
     background-position: 10px 10px;
 }
 
 .contacts__icon-email {
-    background-image: url("/images/envelope.png");
+    background-image: url("../images/envelope.png");
     background-repeat: no-repeat;
     background-position: 10px 13px;
 }
 
 .contacts__icon-comment {
-    background-image: url("/images/Pen.png");
+    background-image: url("../images/Pen.png");
     background-repeat: no-repeat;
     background-position: 10px 13px;
 }
@@ -438,19 +438,19 @@ body {
 }
 
 .icon-fb {
-    background-image: url("/images/fb.png");
+    background-image: url("../images/fb.png");
 }
 
 .icon-inst {
-    background-image: url("/images/inst.png");
+    background-image: url("../images/inst.png");
 }
 
 .icon-in {
-    background-image: url("/images/in.png");
+    background-image: url("../images/in.png");
 }
 
 .icon-you {
-    background-image: url("/images/youtube.png");
+    background-image: url("../images/youtube.png");
 }
 
 .page-footer__input {
