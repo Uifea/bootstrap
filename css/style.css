@@ -10,6 +10,36 @@ body {
     background-image: url("../images/Group\ 48.png"), url("../images/Rectangle\ 34.png");
 }
 
+.hidden {
+    display: none;
+}
+
+
+.slider-container {
+    height: 519px;
+}
+
+.slider-control {
+    display: flex;
+    justify-content: center;
+    margin-left: 54px;
+}
+
+.slider-indicator {
+    cursor: pointer;
+    display: inline-block;
+    width: 16px;
+    height: 8px;
+    border-radius: 4px;
+    background-color: white;
+    margin-left: 8px;
+}
+
+.slider-indicator--active {
+    background: var(--gradient-primary, linear-gradient(135deg, #C381DB 0%, #4E92F9 100%));
+}
+
+
 .page-header {
     background: linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.80) 14.06%, rgba(255, 255, 255, 0.80) 85.42%, rgba(255, 255, 255, 0.00) 100%);
     backdrop-filter: blur(55.5px);
